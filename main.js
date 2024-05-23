@@ -81,3 +81,11 @@ pulldown.onchange = function(evt) {
     let url = `https://${username}.github.io/biketirol`;
     window.location.href = url;
 }
+
+//let osm2 = L.tileLayer(
+//    'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+//)
+
+//new L.Control.MiniMap(osm2, { 
+ //   toggleDisplay: true 
+//}).addTo(map);
